@@ -60,9 +60,6 @@ footer {
     border: none;
     font-weight: bold;
 }
-#botaoH:hover {
-    background-color: rgb(21, 22, 24);
-}
 
 /* BOTAO HISTORICO PROFISSIONAL*/
 #botaoP {
@@ -77,9 +74,6 @@ footer {
     outline: none;
     border: none;
     font-weight: bold;
-}
-#botaoP:hover {
-    background-color: rgb(21, 22, 24);
 }
 
 /* BOTAO HISTORICO EDUCACIONAL*/
@@ -96,9 +90,6 @@ footer {
     border: none;
     font-weight: bold;
 }
-#botaoE:hover {
-    background-color: rgb(21, 22, 24);
-}
 
 /* BOTAO CONTATOS*/
 #botaoC {
@@ -113,7 +104,4 @@ footer {
     outline-style: none;
     border: none;
     font-weight: bold;
-}
-#botaoC:hover {
-    background-color: rgb(21, 22, 24);
 }

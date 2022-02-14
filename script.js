@@ -10,7 +10,7 @@ function habilidades() {
 
     conteudo.innerHTML = 
     `<center><h1>Habilidades</h1></center>
-    <strong><a style="font-size: 18px">Ferramentas que sei utilizar e meu nível de conhecimento:</a></strong>
+    <strong><a style="font-size: 18px">Ferramentas que sei utilizar e meu nível de maestria:</a></strong>
     <ul>
     <li><strong>Front-end: HTML/CSS/JS (Básico)</strong></li>
     <li><strong>Back-end: Python (Básico e POO)</strong></li>
@@ -69,7 +69,7 @@ function contatos() {
 
     conteudo.innerHTML = 
     `<center><h1>Contatos</h1></center>
-    <strong><a style="font-size: 18px">Caso tenha interesse em me contactar ou ver meus projetos, sinta-se a vontade de me chamar em qualquer uma dessas redes:</a></strong>
+    <strong><a style="font-size: 18px">Caso tenha interesse em me contactar ou ver meus projetos, os seguintes links:</a></strong>
     <ul>
     <li><a style="font-weight: bold">Email:</a> <a href="mailto:gui.a.vasconcelos@gmail.com" style="text-decoration:none; color: rgb(179, 46, 41); font-weight: bold">gui.a.vasconcelos@gmail.com</li>
     <li><a style="font-weight: bold">Linkedin:</a> <a href="https://www.linkedin.com/in/guilherme-vasconcelos-b85320207/" style="text-decoration:none; color: rgb(179, 46, 41); font-weight: bold">Guilherme Vasconcelos</a></li>
