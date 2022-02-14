@@ -1,0 +1,119 @@
+body {
+    background: rgb(179, 46, 41);
+    font: normal 15pt Arial;
+}
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.35);
+}
+section {
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.35);
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.166);
+}
+div {
+    text-align: center;
+    padding: 8px;
+    color:rgb(60, 60, 60);
+}
+footer {
+    text-align: center;
+    font-style: italic;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.35);
+    padding: 30px;
+    text-decoration: none;
+}
+#botoes {
+    line-height: 34px;
+}
+#conteudo {
+    text-align: left;
+    font: normal 13pt Arial;
+    text-decoration: none;
+}
+
+#imagem {
+    background-size: 100% 100%;
+    width: 100px;
+    height: 100px;
+    border-radius: 300px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.35);
+    cursor: pointer;
+}
+
+/* BOTAO HABILIDADES*/
+#botaoH {
+    background: rgb(179, 46, 41);
+    color: rgb(255, 255, 255);
+    font: normal Arial;
+    border-radius: 6px;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    transition: background .3s;
+    outline: none;
+    border: none;
+    font-weight: bold;
+}
+#botaoH:hover {
+    background-color: rgb(21, 22, 24);
+}
+
+/* BOTAO HISTORICO PROFISSIONAL*/
+#botaoP {
+    background: rgb(179, 46, 41);
+    color: rgb(255, 255, 255);
+    font: normal Arial;
+    border-radius: 6px;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    transition: background .3s;
+    outline: none;
+    border: none;
+    font-weight: bold;
+}
+#botaoP:hover {
+    background-color: rgb(21, 22, 24);
+}
+
+/* BOTAO HISTORICO EDUCACIONAL*/
+#botaoE {
+    background: rgb(179, 46, 41);
+    color: rgb(255, 255, 255);
+    font: normal Arial;
+    border-radius: 6px;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    transition: background .3s;
+    outline: none;
+    border: none;
+    font-weight: bold;
+}
+#botaoE:hover {
+    background-color: rgb(21, 22, 24);
+}
+
+/* BOTAO CONTATOS*/
+#botaoC {
+    background: rgb(179, 46, 41);
+    color: rgb(255, 255, 255);
+    font: normal Arial;
+    border-radius: 6px;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    transition: background .3s;
+    outline-style: none;
+    border: none;
+    font-weight: bold;
+}
+#botaoC:hover {
+    background-color: rgb(21, 22, 24);
+}
